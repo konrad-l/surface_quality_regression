@@ -1,4 +1,4 @@
 .idea
-/*/*/data
-/*/*/results
-/*/*/.ipynb_checkpoints
+data
+results
+.ipynb_checkpoints
